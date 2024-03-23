@@ -1,0 +1,2 @@
+# airhamlog2turbohamlog
+AirHamLogからエクスポートしたCSVファイルを、TurboHAMLOGのインポート用CSVに変換するツール。
