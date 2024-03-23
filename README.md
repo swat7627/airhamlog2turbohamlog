@@ -9,7 +9,7 @@ AirHamLogからエクスポートしたCSVファイルを、TurboHAMLOGのイン
 
 ### CSV項目対応表
 
-|だれでもQSLのCSV項目|対応するturboHamlogCSV項目名|備考|
+|TurboHamLog項目名|対応するだれでもQSLのCSV項目名|備考|
 |---|---|---|
 |Call|callsign||
 |Date|qso_at|yy/mm/dd形式に変換します。|
